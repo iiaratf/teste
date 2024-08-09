@@ -1,0 +1,24 @@
+body {
+     font-family: Arial, sans-serif;
+     text-align: center;
+     background-image: url(fundosoma.jpg);
+     background-size: cover;
+     background-position: center;
+     overflow: hidden;
+     color: aliceblue;
+     font-size: large;
+}
+
+input{
+font-size: large;
+padding: 8px;
+margin: 5px;
+}
+
+button{
+padding: 10px;
+margin: 10px;
+cursor: pointer;
+size: 100px
+
+}
